@@ -1,0 +1,20 @@
+{
+  "command.new_enchantment_system.mod_name": "New Enchantment System",
+  "command.new_enchantment_system.sep.result": "从 %s 级升到 %s 级需要 %s 经验。",
+  "command.new_enchantment_system.sep.detail": "总消耗(0→%s)=%s | 已消耗(0→%s)=%s",
+  "command.new_enchantment_system.sep.reached": "已达成或超过目标等级（当前 %s 级）。",
+  "enchantment.new_enchantment_system.critical_blade": "暴击之刃",
+  "enchantment.new_enchantment_system.magic_protection": "魔法保护",
+  "enchantment.new_enchantment_system.stable_footing": "稳定立足",
+  "enchantment.new_enchantment_system.worker_exploitation": "剥削",
+  "enchantment.new_enchantment_system.golden_glitter": "金光闪闪",
+  "enchantment.new_enchantment_system.auto_smelting": "自动冶炼",
+  "enchantment.new_enchantment_system.night_vision": "夜视",
+  "enchantment.new_enchantment_system.end_veil": "末地面纱",
+  "enchantment.new_enchantment_system.lifesteal": "生命窃取",
+  "enchantment.new_enchantment_system.everlasting": "永恒",
+  "enchantment.new_enchantment_system.poison": "中毒",
+  "enchantment.new_enchantment_system.wither": "凋零",
+  "enchantment.new_enchantment_system.bulwark": "堡垒",
+  "enchantment.new_enchantment_system.high_jump": "高跳"
+}

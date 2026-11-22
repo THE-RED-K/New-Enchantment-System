@@ -1,0 +1,20 @@
+{
+  "command.new_enchantment_system.mod_name": "New Enchantment System",
+  "command.new_enchantment_system.sep.result": "From level %s to level %s you need %s XP.",
+  "command.new_enchantment_system.sep.detail": "Total (0 to %s) = %s | Spent (0 to %s) = %s",
+  "command.new_enchantment_system.sep.reached": "Target level already reached or exceeded (current level: %s).",
+  "enchantment.new_enchantment_system.critical_blade": "Critical Blade",
+  "enchantment.new_enchantment_system.magic_protection": "Magic Protection",
+  "enchantment.new_enchantment_system.stable_footing": "Stable Footing",
+  "enchantment.new_enchantment_system.worker_exploitation": "Worker Exploitation",
+  "enchantment.new_enchantment_system.golden_glitter": "Golden Glitter",
+  "enchantment.new_enchantment_system.auto_smelting": "Auto Smelting",
+  "enchantment.new_enchantment_system.night_vision": "Night Vision",
+  "enchantment.new_enchantment_system.end_veil": "End Veil",
+  "enchantment.new_enchantment_system.lifesteal": "Lifesteal",
+  "enchantment.new_enchantment_system.everlasting": "Everlasting",
+  "enchantment.new_enchantment_system.poison": "Poison",
+  "enchantment.new_enchantment_system.wither": "Wither",
+  "enchantment.new_enchantment_system.bulwark": "Bulwark",
+  "enchantment.new_enchantment_system.high_jump": "High Jump"
+}

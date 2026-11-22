@@ -1,0 +1,41 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.newenchantmentsystem.mixin",
+  "plugin": "dev.newenchantmentsystem.mixin.NewEnchantmentSystemMixinPlugin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "new_enchantment_system.refmap.json",
+  "mixins": [
+    "EnchantmentMixin",
+    "ExperienceOrbMixin",
+    "DiggingEnchantmentMixin",
+    "TierMaxLevelMixin",
+    "TierOverrideMaxLevelMixin",
+    "EnchantmentHelperMixin",
+    "AbstractArrowMixin",
+    "FrostWalkerMixin",
+    "FireAspectMixin",
+    "SweepAttackMixin",
+    "PlayerAttackDamageMixin",
+    "ThrownTridentDamageMixin",
+    "BowItemPowerMixin",
+    "DamageEnchantmentMixin",
+    "DepthStriderMixin",
+    "LivingEntityProtectionMixin",
+    "ProtectionCompatibilityMixin",
+    "AnvilMenuCostMixin",
+    "AnvilMenuCapMixin",
+    "AnvilMenuBanMixin",
+    "WorkerExploitationMixin",
+    "PiglinAiMixin",
+    "TetraSweepFormulaMixin",
+    "TetraSweepingMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
